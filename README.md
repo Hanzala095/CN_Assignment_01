@@ -4,7 +4,7 @@ This repository contains the submission for **Assignment 01** of the Computer Ne
 
 ## 🎯 Objective
 The objective of this assignment is to gain an in-depth understanding of real-world network protocols by capturing and analyzing **HTTP, HTTPS, and QUIC** traffic using Wireshark.
-
+ 
 ## 📂 Repository Structure
 - **http/**  
   - `http_traces.pcapng` → Captured trace of an HTTP-based website  
